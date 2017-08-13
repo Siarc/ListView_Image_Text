@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NowTest</string>
+    <string-array name="titles">
+        <item>High Quality Ultrasonic Sewing</item>
+        <item>Beyond Standard Bag Size</item>
+        <item>Competitive Price with No Hidden Cost</item>
+        <item>Short, Fast and Accurate</item>
+        <item>Logistic Hassle Free</item>
+        <item>Confidence and Assurance</item>
+
+
+    </string-array>
+    <string-array name="details">
+        <item>Silmebag is the biggest non-woven bag(eco bag) manufacturer
+        in Bangladesh who use ultrasonic sewing to produce the finest finishing of
+        non-woven bag.</item>
+        <item>we can fully customize your non-woven bag(eco bag) into
+        any sizes to meet your requirements.</item>
+        <item>We control every single production cost to reward our customer
+        with the lowest price and lowest order quantity.</item>
+        <item>We always control the non-woven bag(eco bag) production flow
+        carefully to meet your deadline with huge quantity order.</item>
+        <item>We deliver your ordered to your door step with
+        absolute no charges within certain areas. Check our
+        free delivery area.</item>
+        <item>Visit our sales office and review our non-woven bag(eco bag) smaple.</item>
+    </string-array>
+</resources>
